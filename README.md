@@ -1,3 +1,4 @@
 # Python学习记录
 
-### Python基础语法（进行中）
+## Python基础语法
+
